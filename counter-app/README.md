@@ -15,7 +15,7 @@ A simple React counter application using `useState` and styled with Tailwind CSS
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/counter-app.git
+git clone https://github.com/loke77/counter-app.git
 cd counter-app
 ```
 
@@ -30,7 +30,7 @@ npm start
 ```
 
 ## 🌐 Live Demo
-[View Live on Vercel](https://your-vercel-link.vercel.app)
+[View Live on Vercel](https://counter-app-w7gt.vercel.app/)
 
 ## 📄 License
 MIT
